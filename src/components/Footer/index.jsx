@@ -1,12 +1,7 @@
 import React, { Component } from 'react'
 
 export default class Footer extends Component {
-/* 
-	handleCheckAll=(event)=>{
-		const done=event.target.checked
-		this.props.handleCheckAll(done)
-	}
- */
+
 
 	render() {
 		const {todos}=this.props
